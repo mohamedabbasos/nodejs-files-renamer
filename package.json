@@ -1,0 +1,15 @@
+{
+  "name": "files-renamer",
+  "version": "1.0.0",
+  "description": "Rename files in specific folder with numbers (01.EXT, 02.EXT, 03.EXT ... )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "files-renamer"
+  ],
+  "author": "mabbas",
+  "license": "ISC"
+}
